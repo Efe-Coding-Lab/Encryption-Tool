@@ -1,6 +1,6 @@
-[!Python-Encryption-Tool Preview]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+
 (https://www.youtube.com/watch?v=5R1VreChun8 "Encryption-Tool using only python")    // Video Link
+You can check out this quick overview and see how it looks 
 
 # Advanced-Encryption-Tool
 
