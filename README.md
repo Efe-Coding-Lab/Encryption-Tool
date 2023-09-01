@@ -30,4 +30,3 @@ Pull requests are welcome. I will be happy to fix issues and improve the securit
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
