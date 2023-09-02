@@ -1,6 +1,9 @@
 
 (https://www.youtube.com/watch?v=5R1VreChun8 "Encryption-Tool using only python")    // Video Link
 
+![alt text](https://github.com/Efe-Coding-Lab/Encryption-Tool/blob/main/enc.png?raw=true)
+![alt text](https://github.com/Efe-Coding-Lab/Encryption-Tool/blob/main/dec.png?raw=true)
+![alt text](https://github.com/Efe-Coding-Lab/Encryption-Tool/blob/main/enc2.png?raw=true)
 
 You can check out this quick overview and see how it looks 
 
